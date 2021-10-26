@@ -1,10 +1,8 @@
 # balloon_pop_bot
 
-Hi,
-I designed this bot for a competition in which two bots go after each others ballons in the arena to win.
 There are total 3 motors in the bot and for driving 3 motors we need two motor drivers.
-Two motors(left and right according to code) for driving the bot.
-One motor(weapon according to code) for driving the motorized weapon.
+Two motors(left and right) for driving the bot.
+One motor(weapon) for driving the motorized weapon.
 
 The bot can be controlled by any kind of commercial transmitter and receiver.
 The signals send by transmitter is received by the receiver and fed into the arduino for controlling the bot.
@@ -18,6 +16,6 @@ I have attached the pdf of the diagram also.
 REQUIREMENTS:
   - any commercial tarsmitter, receiver
   - ardunio 
-  - motor driver(2)
-  - motors(2 or 3 --one can be extra for weapon)
+  - motor driver x2
+  - motors x3
   - battery
